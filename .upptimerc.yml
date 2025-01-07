@@ -2,14 +2,14 @@ owner: nxthdr
 repo: upptime
 
 sites:
-  - name: "[IPv4] nxthdr.dev"
+  - name: "[v4] nxthdr.dev"
     url: https://nxthdr.dev
-  - name: "[IPv6] nxthdr.dev"
+  - name: "[v6] nxthdr.dev"
     url: https://nxthdr.dev
     ipv6: true
-  - name: "[IPv4] as215011.net"
+  - name: "[v4] as215011.net"
     url: https://as215011.net
-  - name: "[IPv6] as215011.net"
+  - name: "[v6] as215011.net"
     url: https://as215011.net
     ipv6: true
 
