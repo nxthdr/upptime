@@ -21,6 +21,6 @@ status-website:
   introMessage: "Uptime monitor and status page for nxthdr."
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/nxthdr/upptime
