@@ -4,36 +4,40 @@
     "url": "https://nxthdr.dev",
     "icon": "https://icons.duckduckgo.com/ip3/nxthdr.dev.ico",
     "slug": "v4-nxthdr-dev",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "2.17%",
+    "uptimeDay": "2.17%",
+    "uptimeWeek": "2.17%",
+    "uptimeMonth": "2.17%",
+    "uptimeYear": "2.17%",
     "time": 708,
     "timeDay": 708,
     "timeWeek": 708,
     "timeMonth": 708,
     "timeYear": 708,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-07": 6
+    }
   },
   {
     "name": "[v6] nxthdr.dev",
     "url": "https://nxthdr.dev",
     "icon": "https://icons.duckduckgo.com/ip3/nxthdr.dev.ico",
     "slug": "v6-nxthdr-dev",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "2.53%",
+    "uptimeDay": "2.53%",
+    "uptimeWeek": "2.53%",
+    "uptimeMonth": "2.53%",
+    "uptimeYear": "2.53%",
     "time": 302,
     "timeDay": 302,
     "timeWeek": 302,
     "timeMonth": 302,
     "timeYear": 302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-07": 6
+    }
   },
   {
     "name": "[v4] as215011.net",
