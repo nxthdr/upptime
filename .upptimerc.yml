@@ -7,11 +7,6 @@ sites:
   - name: "[v6] nxthdr.dev"
     url: https://nxthdr.dev
     ipv6: true
-  - name: "[v4] as215011.net"
-    url: https://as215011.net
-  - name: "[v6] as215011.net"
-    url: https://as215011.net
-    ipv6: true
 
 status-website:
   baseUrl: /upptime
