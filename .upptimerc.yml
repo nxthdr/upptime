@@ -7,8 +7,18 @@ sites:
   - name: "[v6] nxthdr.dev"
     url: https://nxthdr.dev
     ipv6: true
+  - name: "[v4] geofeed.nxthdr.dev"
+    url: https://geofeed.nxthdr.dev
+  - name: "[v6] geofeed.nxthdr.dev"
+    url: https://geofeed.nxthdr.dev
+    ipv6: true
+  - name: "[v4] peers.nxthdr.dev"
+    url: https://peers.nxthdr.dev
+  - name: "[v6] peers.nxthdr.dev"
+    url: https://peers.nxthdr.dev
+    ipv6: true
 
-assignees: 
+assignees:
   - matthieugouel
 
 status-website:
