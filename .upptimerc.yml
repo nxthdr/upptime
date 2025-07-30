@@ -7,6 +7,16 @@ sites:
   - name: "[v6] nxthdr.dev"
     url: https://nxthdr.dev
     ipv6: true
+  - name: "[v4] blog.nxthdr.dev"
+    url: https://blog.nxthdr.dev
+  - name: "[v6] blog.nxthdr.dev"
+    url: https://blog.nxthdr.dev
+    ipv6: true
+  - name: "[v4] docs.nxthdr.dev"
+    url: https://docs.nxthdr.dev
+  - name: "[v6] docs.nxthdr.dev"
+    url: https://docs.nxthdr.dev
+    ipv6: true
   - name: "[v4] geofeed.nxthdr.dev"
     url: https://geofeed.nxthdr.dev
   - name: "[v6] geofeed.nxthdr.dev"
