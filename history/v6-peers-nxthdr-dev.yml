@@ -1,7 +1,7 @@
 url: https://peers.nxthdr.dev
-status: up
-code: 200
-responseTime: 165
-lastUpdated: 2025-07-30T23:11:55.562Z
+status: down
+code: 502
+responseTime: 1254
+lastUpdated: 2025-07-30T23:55:23.371Z
 startTime: 2025-03-17T20:45:57.151Z
 generator: Upptime <https://github.com/upptime/upptime>
