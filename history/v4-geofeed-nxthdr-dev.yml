@@ -1,7 +1,7 @@
 url: https://geofeed.nxthdr.dev
-status: down
-code: 502
-responseTime: 364
-lastUpdated: 2025-08-08T07:50:06.096Z
+status: up
+code: 200
+responseTime: 614
+lastUpdated: 2025-08-08T16:59:25.202Z
 startTime: 2025-03-17T20:45:55.305Z
 generator: Upptime <https://github.com/upptime/upptime>
