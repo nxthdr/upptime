@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 540,
-    "timeDay": 546,
-    "timeWeek": 425,
-    "timeMonth": 434,
-    "timeYear": 478,
+    "timeDay": 581,
+    "timeWeek": 460,
+    "timeMonth": 435,
+    "timeYear": 479,
     "dailyMinutesDown": {
       "2026-03-04": 39,
       "2026-03-21": 22
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 272,
-    "timeDay": 439,
-    "timeWeek": 350,
+    "timeDay": 434,
+    "timeWeek": 373,
     "timeMonth": 338,
-    "timeYear": 207,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2026-03-04": 39,
       "2026-03-21": 22
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 606,
-    "timeDay": 698,
-    "timeWeek": 548,
-    "timeMonth": 544,
-    "timeYear": 562,
+    "timeDay": 715,
+    "timeWeek": 586,
+    "timeMonth": 547,
+    "timeYear": 563,
     "dailyMinutesDown": {
       "2026-03-04": 39,
       "2026-03-21": 21
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 244,
-    "timeDay": 585,
-    "timeWeek": 467,
-    "timeMonth": 446,
-    "timeYear": 223,
+    "time": 245,
+    "timeDay": 572,
+    "timeWeek": 496,
+    "timeMonth": 447,
+    "timeYear": 224,
     "dailyMinutesDown": {
       "2026-03-04": 39,
       "2026-03-21": 21
@@ -94,11 +94,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 680,
-    "timeDay": 843,
-    "timeWeek": 704,
-    "timeMonth": 658,
-    "timeYear": 664,
+    "time": 681,
+    "timeDay": 848,
+    "timeWeek": 745,
+    "timeMonth": 659,
+    "timeYear": 665,
     "dailyMinutesDown": {
       "2026-03-21": 21
     }
@@ -114,11 +114,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 283,
-    "timeDay": 714,
-    "timeWeek": 568,
-    "timeMonth": 551,
-    "timeYear": 246,
+    "time": 284,
+    "timeDay": 713,
+    "timeWeek": 609,
+    "timeMonth": 553,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2026-03-21": 21
     }
@@ -135,9 +135,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 489,
-    "timeDay": 529,
-    "timeWeek": 431,
-    "timeMonth": 428,
+    "timeDay": 561,
+    "timeWeek": 452,
+    "timeMonth": 430,
     "timeYear": 439,
     "dailyMinutesDown": {
       "2026-03-21": 21
@@ -149,16 +149,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/geofeed.nxthdr.dev.ico",
     "slug": "v6-geofeed-nxthdr-dev",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 202,
+    "time": 203,
     "timeDay": 433,
-    "timeWeek": 343,
-    "timeMonth": 337,
-    "timeYear": 183,
+    "timeWeek": 368,
+    "timeMonth": 338,
+    "timeYear": 184,
     "dailyMinutesDown": {
       "2026-03-21": 21
     }
@@ -175,10 +175,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 507,
-    "timeDay": 476,
-    "timeWeek": 472,
-    "timeMonth": 426,
-    "timeYear": 446,
+    "timeDay": 469,
+    "timeWeek": 490,
+    "timeMonth": 423,
+    "timeYear": 447,
     "dailyMinutesDown": {
       "2026-03-21": 21
     }
@@ -194,11 +194,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 431,
-    "timeWeek": 344,
-    "timeMonth": 337,
-    "timeYear": 183,
+    "time": 210,
+    "timeDay": 435,
+    "timeWeek": 369,
+    "timeMonth": 338,
+    "timeYear": 184,
     "dailyMinutesDown": {
       "2026-03-21": 20
     }
